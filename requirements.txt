@@ -3,4 +3,4 @@ pandasai
 streamlit
 openai
 python-dotenv
-microsoft-lida
+lida
